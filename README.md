@@ -25,8 +25,7 @@ https://asgharabbas-webdev.github.io/todo-app/
 
 ## Screenshot
 
-screenshot.png
-
+Screenshot .png
 
 ## Author
 
