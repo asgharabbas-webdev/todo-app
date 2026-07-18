@@ -25,8 +25,9 @@ https://asgharabbas-webdev.github.io/todo-app/
 
 ## Screenshot
 
+screenshot.png
 
 
 ## Author
 
-Asghar Abbas
+Muhammad Asghar Abbas
