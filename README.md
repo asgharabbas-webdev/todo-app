@@ -21,11 +21,11 @@ A modern and responsive To-Do App built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-(Add your GitHub Pages link here after deployment)
+https://asgharabbas-webdev.github.io/todo-app/
 
 ## Screenshot
 
-(Add project screenshot here)
+
 
 ## Author
 
