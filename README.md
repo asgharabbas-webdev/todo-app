@@ -25,7 +25,9 @@ https://asgharabbas-webdev.github.io/todo-app/
 
 ## Screenshot
 
-Screenshot .png
+## Screenshot
+
+![To-Do App](screenshot.png)
 
 ## Author
 
